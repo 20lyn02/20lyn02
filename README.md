@@ -27,3 +27,7 @@
 - <b>[Hotel Booking Cancellations: EDA & Visual Analytics](https://github.com/20lyn02/smm635-GCW)</b>
 
 - <b>[Rainfall & Agriculture: Business Intelligence Dashboard](https://github.com/20lyn02/smm080-GCW)</b>
+
+<h2>👨‍💻 Other Projects:</h2>
+
+- <b>[Analysing a Coin Game: Probability and Strategies](https://github.com/20lyn02/IB-EE)</b>
