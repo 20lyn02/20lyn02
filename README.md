@@ -3,8 +3,10 @@
 <h2>👨‍💻 Data Science & Analytics Projects:</h2>
 
 - <b>[Workforce Restructuring with Predictive Analytics & Optimization](https://github.com/20lyn02/smm750-ICW)</b>
+
 - <b>[Movie Clustering with PCA and Unsupervised Learning](https://github.com/20lyn02/smm636-GCW2)</b>
-- <b>[Workforce Restructuring with Predictive Analytics & Optimization](https://github.com/20lyn02/smm750-ICW)</b>
+
+- <b>[Predicting Airline Passenger Satisfaction with Neural Networks](https://github.com/20lyn02/smm768-GCW)</b>
 - <b>[Workforce Restructuring with Predictive Analytics & Optimization](https://github.com/20lyn02/smm750-ICW)</b>
 - <b>[Workforce Restructuring with Predictive Analytics & Optimization](https://github.com/20lyn02/smm750-ICW)</b>
 
