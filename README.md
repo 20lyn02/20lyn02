@@ -16,6 +16,7 @@
 
 
 <h2>👨‍💻 Data Visualization Projects:</h2>
+
 - <b>[Hotel Booking Cancellations: EDA & Visual Analytics](https://github.com/20lyn02/smm635-GCW)</b>
 
 - <b>[Rainfall & Agriculture: Business Intelligence Dashboard](https://github.com/20lyn02/smm080-GCW)</b>
