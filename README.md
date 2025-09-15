@@ -2,14 +2,14 @@
 
 ---
 
-<h2>🎓 Academic Capstone Projects</h2>
+<h2>🎓 Final Projects</h2>
 
-- **MSc Final Project:** [Use of Generative AI for Assistive Communication in Motor Neuron Disease Patients](https://github.com/20lyn02/MSc-ARP)  
-- **BSc Final Project:** [A Digital Pound for the UK: Yes or No?](https://github.com/20lyn02/BSc-ARP)  
+- **MSc in Business Analytics:** [Use of Generative AI for Assistive Communication in Motor Neuron Disease Patients](https://github.com/20lyn02/MSc-ARP)  
+- **BSc in Investment & Financial Risk Managment:** [A Digital Pound for the UK: Yes or No?](https://github.com/20lyn02/BSc-ARP)  
 
 ---
 
-<h2>📊 Data Science & Machine Learning</h2>
+<h2>📈 Data Science & Machine Learning</h2>
 
 - [Workforce Restructuring with Predictive Analytics & Optimization](https://github.com/20lyn02/smm750-ICW)  
 - [Movie Clustering with PCA and Unsupervised Learning](https://github.com/20lyn02/smm636-GCW2)  
@@ -20,7 +20,7 @@
 
 ---
 
-<h2>📈 Data Visualisation & Business Intelligence</h2>
+<h2>📊 Data Visualisation & Business Intelligence</h2>
 
 - [Hotel Booking Cancellations: EDA & Visual Analytics](https://github.com/20lyn02/smm635-GCW)  
 - [Rainfall & Agriculture: Business Intelligence Dashboard](https://github.com/20lyn02/smm080-GCW)  
@@ -31,6 +31,3 @@
 
 - [Analysing a Coin Game: Probability and Strategies](https://github.com/20lyn02/IB-EE)  
 
----
-
-✨ Always exploring the intersection of **data, strategy, and decision-making**.
