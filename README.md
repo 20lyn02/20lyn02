@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Core Projects:</h2>
 
-- <b>[MSc Final Project: Use of Generative AI for Assistive Communication in Motor Neuron Disease Patients](https://github.com/20lyn02/MSc-ARP)</b>
+- <b>MSc Final Project: [Use of Generative AI for Assistive Communication in Motor Neuron Disease Patients](https://github.com/20lyn02/MSc-ARP)</b>
 
 - <b>[Rainfall & Agriculture: Business Intelligence Dashboard](https://github.com/20lyn02/smm080-GCW)</b>
 
