@@ -1,4 +1,4 @@
-<h1>Hi, I'm Victor! <br/> <a href="https://www.linkedin.com/in/victor-linkevich22/">Data Analyst & Data Scientist</a></h1>
+<h1>Hi, I'm Victor! <br/> <a href="https://www.linkedin.com/in/victor-linkevich22/">Data Analyst</a></h1>
 
 ---
 
@@ -9,7 +9,7 @@
 
 ---
 
-<h2>📈 Data Science & Machine Learning</h2>
+<h2>📈 Data Science</h2>
 
 - [Workforce Restructuring with Predictive Analytics & Optimization](https://github.com/20lyn02/smm750-ICW)  
 - [Movie Clustering with PCA and Unsupervised Learning](https://github.com/20lyn02/smm636-GCW2)  
@@ -20,7 +20,7 @@
 
 ---
 
-<h2>📊 Data Visualisation & Business Intelligence</h2>
+<h2>📊 Data Visualisation </h2>
 
 - [Hotel Booking Cancellations: EDA & Visual Analytics](https://github.com/20lyn02/smm635-GCW)  
 - [Rainfall & Agriculture: Business Intelligence Dashboard](https://github.com/20lyn02/smm080-GCW)  
