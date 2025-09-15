@@ -4,7 +4,7 @@
 
 - <b>MSc Final Project:  [Use of Generative AI for Assistive Communication in Motor Neuron Disease Patients](https://github.com/20lyn02/MSc-ARP)</b>
 
-- <b>[Rainfall & Agriculture: Business Intelligence Dashboard](https://github.com/20lyn02/smm080-GCW)</b>
+- <b>BSc Final Project:  [A Digital Pound for the UK: Yes or No?](https://github.com/20lyn02/BSc-ARP)</b>
 
 
 <h2>👨‍💻 Data Science & Analytics Projects:</h2>
