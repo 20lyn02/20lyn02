@@ -1,6 +1,6 @@
 <h1>Hi, I'm Victor! <br/> <a href="https://www.linkedin.com/in/victor-linkevich22/">Data Analysts</a>
 
-<h2>👨‍💻 Data Analytics Projects:</h2>
+<h2>👨‍💻 Data Science & Analytics Projects:</h2>
 
 - <b>[Workforce Restructuring with Predictive Analytics & Optimization](https://github.com/20lyn02/smm750-ICW)</b>
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
